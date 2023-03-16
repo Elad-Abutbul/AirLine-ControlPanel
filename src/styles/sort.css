@@ -1,0 +1,19 @@
+
+#filterFlyes{
+  width: 100%;
+}
+.sortSearch {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+@media screen and (max-width: 768px) {
+  .sortSearch {
+    flex-direction: column;
+    width: 35%;
+    margin: auto;
+  }
+}
