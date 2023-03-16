@@ -45,7 +45,7 @@ function App() {
           value={{ setShowNav, allFlyes, getAddFly, getDeleteFly, getEdit }}
         >
           <Routes>
-            <Route path="/" element={<LogIn />} />
+            <Route path="*" element={<LogIn />} />
             <Route path="/controlPanel" element={<HomePage />} />
             <Route path="/addFly" element={<AddFly />} />
             <Route path="/deleteFly" element={<DeleteFly />} />
