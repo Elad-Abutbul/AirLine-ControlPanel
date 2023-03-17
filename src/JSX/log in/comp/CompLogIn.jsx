@@ -17,6 +17,7 @@ export default function CompLogIn() {
 
   return (
     <div className="logInMain">
+      <p>To enter, press 12345</p>
       <input
         type="text"
         placeholder="Enter ID"
