@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/air-line-control-panel/static/css/main.10479bf4.css",
-    "main.js": "/air-line-control-panel/static/js/main.6f4b1421.js",
+    "main.js": "/air-line-control-panel/static/js/main.bfe5c7cc.js",
     "static/js/787.a8f9208e.chunk.js": "/air-line-control-panel/static/js/787.a8f9208e.chunk.js",
     "index.html": "/air-line-control-panel/index.html",
     "main.10479bf4.css.map": "/air-line-control-panel/static/css/main.10479bf4.css.map",
-    "main.6f4b1421.js.map": "/air-line-control-panel/static/js/main.6f4b1421.js.map",
+    "main.bfe5c7cc.js.map": "/air-line-control-panel/static/js/main.bfe5c7cc.js.map",
     "787.a8f9208e.chunk.js.map": "/air-line-control-panel/static/js/787.a8f9208e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10479bf4.css",
-    "static/js/main.6f4b1421.js"
+    "static/js/main.bfe5c7cc.js"
   ]
 }
